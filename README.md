@@ -16,4 +16,4 @@ Built an interactive Power BI dashboard to analyse Amazon sales performance, cat
 - Interactive slicers allow dynamic filtering and analysis
 
 ## Dashboard Preview
-![Dashboard Preview](PASTE-IMAGE-LINK-HERE)
+![Dashboard Preview](https://github.com/akshitgoyal-data/sales-dashboard-powerbi/blob/main/Dashboard%20Preview.png?raw=true)
